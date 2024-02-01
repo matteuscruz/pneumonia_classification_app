@@ -1,1 +1,1 @@
-# pneumonia_classification_app
+# Pneumonia Classification App
